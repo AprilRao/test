@@ -1,0 +1,46 @@
+.imgrao{
+	background-image:url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515349558911&di=d60525a952b9bcf9c18b702989d3e6ae&imgtype=0&src=http%3A%2F%2Fstatic11.photo.sina.com.cn%2Fmiddle%2F5e0885b1t759137effb1a%26690");
+	width:100px;
+	height:100px;
+	display:inline-block;
+	background-size:cover;
+}
+h1{
+	display:inline-block;
+	text-decoration: blink;
+}
+
+#content{
+	color:rgb(255,0,0);
+}
+
+.button{
+	background-color: white; 
+    border: 2px solid #4CAF50;/* Green */
+    color: balck;
+    padding: 15px 100px;
+    text-align: center;
+	text-decoration: blink;
+
+    font-size: 16px;
+	border-radius: 12px;
+    transition-duration: 4s;
+}
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+
+.zjk{
+	background-image:url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515349558911&di=d60525a952b9bcf9c18b702989d3e6ae&imgtype=0&src=http%3A%2F%2Fstatic11.photo.sina.com.cn%2Fmiddle%2F5e0885b1t759137effb1a%26690");
+	background-size:cover;
+	opacity:0.4;
+}
+
+.ending{
+	color:rgba(255,0,255,0.5);
+	background:rgba(255,255,100,0.5);
+}
+
